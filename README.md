@@ -1,1 +1,1 @@
-# A-Contrastive-Learning-Model-without-Negative-Pairs-for-Sentence-Embeddings-Learning
+# Sentence Embeddings Learning without Negative Pairs
